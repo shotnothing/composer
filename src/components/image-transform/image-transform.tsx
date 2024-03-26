@@ -84,8 +84,8 @@ export default function ImageTransform({images, transforms, setTransforms}) {
             propertyCard: AddTextPropertyCard, 
             defaultProperties: {
                 text: 'Placeholder Text',
-                fontFamily: 'Courier New',
-                fontSize: 40,
+                fontFamily: 'Verdana',
+                fontSize: 80,
                 color: '#ff9100',
                 fontWeight: 'bold',
                 xAnchor: 'center',
@@ -104,8 +104,8 @@ export default function ImageTransform({images, transforms, setTransforms}) {
             propertyCard: AddCustomTextPropertyCard, 
             defaultProperties: {
                 texts: ['Placeholder Text 1', 'Placeholder Text 2', 'Placeholder Text 3', 'Placeholder Text 4'],
-                fontFamily: 'Courier New',
-                fontSize: 40,
+                fontFamily: 'Verdana',
+                fontSize: 80,
                 color: '#ff9100',
                 fontWeight: 'bold',
                 xAnchor: 'center',

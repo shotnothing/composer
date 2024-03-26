@@ -28,7 +28,8 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-dropzone": "^14.2.3",
-    "sharp": "^0.33.3"
+    "sharp": "^0.33.3",
+    "yarn": "^1.22.22"
   },
   "devDependencies": {
     "@types/node": "^20",
